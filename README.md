@@ -21,3 +21,9 @@ the user will be asked if they want to append to or read from the file, the file
 
 *OUTPUT*:
 ![Image](https://github.com/user-attachments/assets/519d6d5a-ab10-4209-8010-3ab024dd2b04)
+
+
+![Image](https://github.com/user-attachments/assets/8804e320-29bc-494a-b6ea-f6dcb00554b6)
+
+
+![Image](https://github.com/user-attachments/assets/d91f48ff-756c-45d7-b5df-37f47195b33e)
